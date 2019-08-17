@@ -7,6 +7,7 @@
     "name": "Unset Modules for Basic Pages",
     "require": {"basicpages": ">=2.1.9"},
     "icon": "UnsetModules.png",
+    "license": "GNU General Public License v3.0",
     "authors": [
         {
             "name": "Kaspar"
