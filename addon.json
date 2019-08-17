@@ -1,0 +1,15 @@
+{
+    "type": "addon",
+    "key": "UnsetModules",
+    "description": "Unsets Modules from being rendered in Panel when on pages of the application 'Basic Pages'",
+    "version": "0.0.1",
+    "mobileFriendly": true,
+    "name": "Unset Modules for Basic Pages",
+    "require": {"basicpages": ">=2.1.9"},
+    "icon": "UnsetModules.png",
+    "authors": [
+        {
+            "name": "Kaspar"
+        }
+    ]
+}
